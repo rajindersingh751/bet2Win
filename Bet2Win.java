@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Test
+public class Bet2Win
 {
     public static void main(String[] args) {
 
